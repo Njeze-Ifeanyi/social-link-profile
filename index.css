@@ -1,7 +1,6 @@
 body{
     background-color: hwb(0 8% 92%);
     display: grid;
-    padding: 50px;
     place-items: center;
     font-size: 14px;
 }
